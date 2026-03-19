@@ -237,3 +237,8 @@ DrfProject
 - Python
 - Django
 - Django REST Framework
+  
+  ---
+
+# Screenshot
+<img width="947" height="391" alt="image" src="https://github.com/user-attachments/assets/cdb5e821-7bd8-423e-b9a2-b96db0c722d2" />
